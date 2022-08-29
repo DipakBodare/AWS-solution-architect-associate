@@ -41,11 +41,5 @@ When you complete course, you will be able to understand the each and every aspe
 3. Amazon Elastic Block Storage (EBS)
 
 
-IAM
-3. VPC
-4. Route 53
-5. Simple Storage Service (S3)
-6. AWS Lambda
-7. API Gateway
-8. 
+
 
