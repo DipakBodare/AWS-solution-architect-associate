@@ -1,4 +1,4 @@
-# AWS-solution-architect-associate
+# AWS-Solution-Architect-Associate
 
 ** This Course will introduce you about the how AWS works***
 
