@@ -1,3 +1,13 @@
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+
+
 # AWS-Solution-Architect-Associate
 This Course will introduce you about the how AWS works.
 When you complete course, you will be able to understand the each and every aspect to pass aws solution architect exam.
