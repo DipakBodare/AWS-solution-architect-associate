@@ -8,7 +8,7 @@
 
 
 ```diff
-# AWS-Solution-Architect-Associate
+- AWS-Solution-Architect-Associate
 ```
 This Course will introduce you about the how AWS works.
 When you complete course, you will be able to understand the each and every aspect to pass aws solution architect exam.
